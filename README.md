@@ -16,7 +16,7 @@ Install Python 3.x from the official Python website.
 Install the Tkinter library by running pip install tk.
 Install the Pygame library by running pip install pygame.
 Usage
-Clone the repository using git clone https://github.com/your-username/Media-Player.git.
+Clone the repository using git clone https://github.com/Blaise5346/music-player.git.
 Navigate to the project directory using cd Media-Player.
 Run the application using python app.py.
 Code Structure
